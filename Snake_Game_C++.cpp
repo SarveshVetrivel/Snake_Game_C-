@@ -1,9 +1,7 @@
-/*
-snake game 
-author-SKD
-2013
 
-*/
+// A simple C++ Game Made By Me - Twitter @SarveshVetrivel
+
+
 #include <iostream>
 #include <windows.h>
 #include <stdlib.h>
@@ -482,3 +480,4 @@ void loop(snake &ob)
        int x;
        cin >> x;
 }
+// --- End --- Credits --- Sarveshvetrivel
